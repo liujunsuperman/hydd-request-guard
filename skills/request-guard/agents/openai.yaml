@@ -1,0 +1,4 @@
+interface:
+  display_name: "Request Guard"
+  short_description: "Integrate request-guard into JS/TS request layers"
+  default_prompt: "Use $request-guard to identify the user's request scenario first, wire request-guard through its public API, and keep the answer focused on user-facing integration."
